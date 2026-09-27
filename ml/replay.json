@@ -1,0 +1,962 @@
+[
+  {
+    "inputs": {
+      "x": 585.7163698052659,
+      "y": 1616.4409432087373,
+      "velocity": 0.1,
+      "heading": 14.785488157644641,
+      "signal_strength": -85.03448117398969,
+      "sinr": -86.86155601755705,
+      "network_load": 0.3333815912419004,
+      "hour": 15.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_1_2",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 1742.2840271174928,
+      "y": 5299.347352546171,
+      "velocity": 1.004380959807486,
+      "heading": 0.24429514398779795,
+      "signal_strength": -81.9319797721872,
+      "sinr": -82.70827573204997,
+      "network_load": 0.3890985506884849,
+      "hour": 3.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_2_5",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 3546.38282501223,
+      "y": 6417.613195421492,
+      "velocity": 0.1,
+      "heading": 6.213417528479729,
+      "signal_strength": -85.79977068775734,
+      "sinr": -89.09327174293284,
+      "network_load": 0.4248665511166546,
+      "hour": 23.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_4_6",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 3091.2827859614426,
+      "y": 1874.3954839580267,
+      "velocity": 0.1471950891112358,
+      "heading": 7.999429140711978,
+      "signal_strength": -73.82179943865795,
+      "sinr": -74.11636227676425,
+      "network_load": 0.37812936566033906,
+      "hour": 2.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_3_2",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 3859.854222756959,
+      "y": 7076.628511439285,
+      "velocity": 0.1,
+      "heading": -1.733248727271458,
+      "signal_strength": -74.06757573761399,
+      "sinr": -74.38004557812178,
+      "network_load": 0.3861289377486142,
+      "hour": 5.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_4_7",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 5499.011963459722,
+      "y": 2932.178243755287,
+      "velocity": 0.1,
+      "heading": 0.5006239952817791,
+      "signal_strength": -84.0417104951949,
+      "sinr": -84.84186478574071,
+      "network_load": 0.33088765432465833,
+      "hour": 13.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_5_3",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 4491.927195808781,
+      "y": 3004.291228071624,
+      "velocity": 1.004380959807486,
+      "heading": -1.6044960504761359,
+      "signal_strength": -83.83834712497674,
+      "sinr": -85.18693952290654,
+      "network_load": 0.45656704637612744,
+      "hour": 21.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_4_3",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 6748.536016601429,
+      "y": 10000.0,
+      "velocity": 14.461532455878626,
+      "heading": 0.35841747284412495,
+      "signal_strength": -90.26628911107181,
+      "sinr": -97.20102719359114,
+      "network_load": 0.47375674022625675,
+      "hour": 22.0,
+      "pattern_type": "high_mobility",
+      "connected_cell": "cell_7_9",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 9956.897652924172,
+      "y": 10000.0,
+      "velocity": 0.14122926713331302,
+      "heading": 2.7118864084614906,
+      "signal_strength": -92.82316870868513,
+      "sinr": -92.86912878932145,
+      "network_load": 0.37952122476614825,
+      "hour": 20.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_9_9",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 8563.786449794292,
+      "y": 2534.2872772767632,
+      "velocity": 6.3078087015723705,
+      "heading": 3.0889079393909933,
+      "signal_strength": -86.09776413553016,
+      "sinr": -95.5756537714905,
+      "network_load": 0.6500535963123432,
+      "hour": 17.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_9_3",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 9377.745358948212,
+      "y": 2414.4169464135234,
+      "velocity": 0.1,
+      "heading": -14.784001018966821,
+      "signal_strength": -84.97528066394403,
+      "sinr": -92.14861957730832,
+      "network_load": 0.30473578784447053,
+      "hour": 0.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_9_2",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 4401.831242047067,
+      "y": 4499.546010264927,
+      "velocity": 10.453111547637896,
+      "heading": 1.7116376220893512,
+      "signal_strength": -86.13857210481483,
+      "sinr": -92.9210565110493,
+      "network_load": 0.8177012506739311,
+      "hour": 7.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_4_4",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 0.0,
+      "y": 1906.5540314913192,
+      "velocity": 0.1,
+      "heading": 3.94858912569042,
+      "signal_strength": -69.4112113915145,
+      "sinr": -76.30092918589747,
+      "network_load": 0.46071105631530096,
+      "hour": 1.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_0_2",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 3047.1204431212677,
+      "y": 3896.973381816955,
+      "velocity": 1.0083459543195121,
+      "heading": 2.858617419906635,
+      "signal_strength": -71.08389789599856,
+      "sinr": -78.59102964811392,
+      "network_load": 0.40487680749128324,
+      "hour": 23.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_3_4",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 688.7283183307349,
+      "y": 9297.209919071833,
+      "velocity": 0.6588296086118439,
+      "heading": -21.035349740171196,
+      "signal_strength": -82.67696779983413,
+      "sinr": -83.62588286926248,
+      "network_load": 0.34027008340981374,
+      "hour": 20.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_1_9",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 0.0,
+      "y": 5005.659444204495,
+      "velocity": 25.014151386659304,
+      "heading": -22.860437495127556,
+      "signal_strength": -45.05547565283639,
+      "sinr": -52.692436822492375,
+      "network_load": 0.412391698842199,
+      "hour": 13.0,
+      "pattern_type": "high_mobility",
+      "connected_cell": "cell_0_5",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 5386.461552326163,
+      "y": 6591.692513598027,
+      "velocity": 1.004380959807486,
+      "heading": -5.755926279605895,
+      "signal_strength": -84.99779889236211,
+      "sinr": -91.10161613619334,
+      "network_load": 0.674419395734452,
+      "hour": 9.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_5_7",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 7428.402411192362,
+      "y": 7672.719326940528,
+      "velocity": 1.476176945824632,
+      "heading": 12.021673129647837,
+      "signal_strength": -84.63357274912698,
+      "sinr": -94.75818812326871,
+      "network_load": 0.7797014793163909,
+      "hour": 9.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_7_8",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 3369.1432750282193,
+      "y": 349.63073145609627,
+      "velocity": 0.1,
+      "heading": -12.62702245072022,
+      "signal_strength": -84.12474669544775,
+      "sinr": -87.86078466155118,
+      "network_load": 0.38328267561368234,
+      "hour": 1.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_3_0",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 8543.990451679938,
+      "y": 8497.517373732371,
+      "velocity": 0.2734124528820936,
+      "heading": 4.284460644886637,
+      "signal_strength": -86.58458103897335,
+      "sinr": -90.32930905214451,
+      "network_load": 0.3469649569770086,
+      "hour": 20.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_9_8",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 1576.7048465102607,
+      "y": 528.7324763779525,
+      "velocity": 25.014151386659304,
+      "heading": -22.252430770057956,
+      "signal_strength": -86.03438711288732,
+      "sinr": -93.77623681447301,
+      "network_load": 0.36185783793233195,
+      "hour": 20.0,
+      "pattern_type": "high_mobility",
+      "connected_cell": "cell_2_1",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 9388.722636773382,
+      "y": 112.8012926563319,
+      "velocity": 1.790238476137163,
+      "heading": 9.577407206187619,
+      "signal_strength": -82.14391893646403,
+      "sinr": -91.0803360935255,
+      "network_load": 0.44019424618414177,
+      "hour": 6.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_9_0",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 4641.835322242313,
+      "y": 2497.740851739996,
+      "velocity": 0.1,
+      "heading": 21.02570834874352,
+      "signal_strength": -85.75220059933251,
+      "sinr": -89.8010307085747,
+      "network_load": 0.37978641503209176,
+      "hour": 14.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_5_2",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 3393.4195441270926,
+      "y": 2543.0028236329463,
+      "velocity": 0.1,
+      "heading": 6.822194702086669,
+      "signal_strength": -85.6065416052771,
+      "sinr": -85.90585052851858,
+      "network_load": 0.4726905015782871,
+      "hour": 10.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_3_3",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 9360.206921280285,
+      "y": 3318.0183561350964,
+      "velocity": 0.1,
+      "heading": 2.821099819417982,
+      "signal_strength": -83.63395156384665,
+      "sinr": -90.48460187861502,
+      "network_load": 0.3981004445466664,
+      "hour": 14.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_9_3",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 4524.833335975482,
+      "y": 3359.543324252871,
+      "velocity": 0.1,
+      "heading": 30.151377472408033,
+      "signal_strength": -85.50295340094077,
+      "sinr": -92.83898819031049,
+      "network_load": 0.43860850211065017,
+      "hour": 21.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_5_3",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 4685.792894653861,
+      "y": 454.0855350614627,
+      "velocity": 0.1,
+      "heading": -17.762310658909595,
+      "signal_strength": -84.84185595193301,
+      "sinr": -95.41971771189513,
+      "network_load": 0.6689603748646249,
+      "hour": 16.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_5_0",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 3386.2586210484615,
+      "y": 5469.728165731822,
+      "velocity": 0.515748558360984,
+      "heading": 30.88090326820731,
+      "signal_strength": -85.68014199851997,
+      "sinr": -93.67444426159203,
+      "network_load": 0.31370126737952186,
+      "hour": 23.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_3_5",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 3575.4459835221187,
+      "y": 2514.0520701089335,
+      "velocity": 0.1,
+      "heading": 11.36591716746873,
+      "signal_strength": -86.19501859089036,
+      "sinr": -96.73403969762441,
+      "network_load": 0.6079468454541932,
+      "hour": 9.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_4_3",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 3327.805467948336,
+      "y": 0.0,
+      "velocity": 0.1,
+      "heading": -21.421302092968997,
+      "signal_strength": -80.31232387059467,
+      "sinr": -88.2130749729705,
+      "network_load": 0.4322575432923478,
+      "hour": 21.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_3_0",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 2510.9778307459596,
+      "y": 2039.004139326446,
+      "velocity": 0.3548973712842306,
+      "heading": 1.687656547685334,
+      "signal_strength": -83.81411139550248,
+      "sinr": -88.38831083440247,
+      "network_load": 0.3126732980842915,
+      "hour": 1.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_3_2",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 9517.281933974553,
+      "y": 3958.436757885375,
+      "velocity": 1.004380959807486,
+      "heading": -7.785513584812179,
+      "signal_strength": -84.30249419643431,
+      "sinr": -89.24558209616887,
+      "network_load": 0.3237001922861256,
+      "hour": 4.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_9_4",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 9406.26932162553,
+      "y": 8531.391111071382,
+      "velocity": 0.0693907058546474,
+      "heading": 10.098490152631484,
+      "signal_strength": -85.85064666958286,
+      "sinr": -85.88576338609624,
+      "network_load": 0.44869564720017674,
+      "hour": 4.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_9_9",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 4176.676624131836,
+      "y": 1.7901898421397104,
+      "velocity": 0.1,
+      "heading": -18.849106699533717,
+      "signal_strength": -74.94402771030622,
+      "sinr": -76.5717042312355,
+      "network_load": 0.6203106206646669,
+      "hour": 8.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_4_0",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 1181.980129242662,
+      "y": 9246.758561090022,
+      "velocity": 0.1,
+      "heading": 25.701453753081083,
+      "signal_strength": -79.73158137239714,
+      "sinr": -85.96340217585445,
+      "network_load": 0.4621127938436884,
+      "hour": 14.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_1_9",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 6483.8695399539865,
+      "y": 258.529268755566,
+      "velocity": 0.11557860016015015,
+      "heading": 0.9726521970554416,
+      "signal_strength": -84.78519044523924,
+      "sinr": -84.31586721121847,
+      "network_load": 0.3151044857285404,
+      "hour": 22.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_6_0",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 5563.797124881244,
+      "y": 2290.318567990665,
+      "velocity": 0.1,
+      "heading": 2.4001736669009395,
+      "signal_strength": -84.38633816572981,
+      "sinr": -88.97248969207998,
+      "network_load": 0.3111196532122075,
+      "hour": 1.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_6_2",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 3399.252811164715,
+      "y": 3121.5379239256954,
+      "velocity": 0.1,
+      "heading": 3.223616355416853,
+      "signal_strength": -82.40984009403779,
+      "sinr": -82.8837304360941,
+      "network_load": 0.3696235718355902,
+      "hour": 2.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_3_3",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 3655.411809042064,
+      "y": 2614.5354522404054,
+      "velocity": 0.1,
+      "heading": 11.469383525124432,
+      "signal_strength": -84.27037851680042,
+      "sinr": -89.363994284609,
+      "network_load": 0.47346803182518765,
+      "hour": 12.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_4_3",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 1252.195052132345,
+      "y": 1741.3492139817808,
+      "velocity": 0.3101441401657078,
+      "heading": 3.0012243638554756,
+      "signal_strength": -81.15619075770145,
+      "sinr": -87.27967518852456,
+      "network_load": 0.32009104025260093,
+      "hour": 4.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_1_2",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 1597.380009568247,
+      "y": 6387.542985717218,
+      "velocity": 0.30057224616350636,
+      "heading": 1.0549571067045695,
+      "signal_strength": -84.94561446549426,
+      "sinr": -90.46135147908154,
+      "network_load": 0.3836336709519359,
+      "hour": 10.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_2_6",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 5439.912940010677,
+      "y": 6619.362774884315,
+      "velocity": 1.004380959807486,
+      "heading": -5.8550749816134395,
+      "signal_strength": -85.29440739235964,
+      "sinr": -91.05426026404771,
+      "network_load": 0.6323379805608706,
+      "hour": 9.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_5_7",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 483.6048764311959,
+      "y": 5271.3909234836,
+      "velocity": 0.3275481340287921,
+      "heading": -7.780561317464502,
+      "signal_strength": -84.87882841867142,
+      "sinr": -88.25348537674552,
+      "network_load": 0.3987557462973891,
+      "hour": 11.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_0_5",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 6557.01542970319,
+      "y": 5518.76775984417,
+      "velocity": 1.004380959807486,
+      "heading": -3.3558756308748503,
+      "signal_strength": -86.31260878820024,
+      "sinr": -86.45124703455161,
+      "network_load": 0.37139478911090346,
+      "hour": 20.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_7_6",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 10000.0,
+      "y": 3863.8591364651475,
+      "velocity": 1.476176945824632,
+      "heading": -6.57287558652532,
+      "signal_strength": -90.07975673620763,
+      "sinr": -98.71955387166098,
+      "network_load": 0.36637430217784167,
+      "hour": 1.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_9_4",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 533.5654610684312,
+      "y": 5662.687516102865,
+      "velocity": 0.4646284882674784,
+      "heading": 0.5877924998111537,
+      "signal_strength": -85.20275035631086,
+      "sinr": -97.42027134888738,
+      "network_load": 0.7393096615435246,
+      "hour": 9.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_1_6",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 1461.702385044801,
+      "y": 3577.3747038216657,
+      "velocity": 0.515748558360984,
+      "heading": 27.536397022984765,
+      "signal_strength": -85.93043629059912,
+      "sinr": -86.0946829552717,
+      "network_load": 0.49115410108513124,
+      "hour": 0.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_1_4",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 1553.1831391872227,
+      "y": 8434.923653051328,
+      "velocity": 0.1,
+      "heading": 13.595113953894153,
+      "signal_strength": -85.89730602628984,
+      "sinr": -88.81861659483293,
+      "network_load": 0.4245894373899002,
+      "hour": 13.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_2_8",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 9659.912251039717,
+      "y": 1501.0787850390077,
+      "velocity": 1.790238476137163,
+      "heading": 15.696930060848597,
+      "signal_strength": -88.35314162188834,
+      "sinr": -89.42648964725939,
+      "network_load": 0.37421534911144094,
+      "hour": 13.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_9_2",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 587.9429160933837,
+      "y": 3579.1007778939597,
+      "velocity": 1.004380959807486,
+      "heading": 1.7992544735535339,
+      "signal_strength": -85.40263381364683,
+      "sinr": -85.81399457963012,
+      "network_load": 0.3261580591802888,
+      "hour": 2.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_1_4",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 4698.4038329369905,
+      "y": 8002.782138316972,
+      "velocity": 0.1,
+      "heading": 1.1922919617642473,
+      "signal_strength": -79.5888859057484,
+      "sinr": -86.64505336140641,
+      "network_load": 0.7436130658104629,
+      "hour": 17.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_5_8",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 3742.7496023766444,
+      "y": 1067.2695273055388,
+      "velocity": 0.1,
+      "heading": 4.716849715662367,
+      "signal_strength": -78.49437573814365,
+      "sinr": -80.08426776848994,
+      "network_load": 0.32886036052480644,
+      "hour": 5.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_4_1",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 3636.6866817405116,
+      "y": 1446.5604365469308,
+      "velocity": 0.1,
+      "heading": -0.2141556461563091,
+      "signal_strength": -85.20369265788767,
+      "sinr": -90.48017872004925,
+      "network_load": 0.4696043550234713,
+      "hour": 14.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_4_1",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 7429.916106943517,
+      "y": 10000.0,
+      "velocity": 10.453111547637896,
+      "heading": 0.7504804180622108,
+      "signal_strength": -90.73655257255083,
+      "sinr": -103.40717234637965,
+      "network_load": 0.7720003522812291,
+      "hour": 7.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_7_9",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 3537.407243360636,
+      "y": 6672.4298523477055,
+      "velocity": 0.515748558360984,
+      "heading": 29.348309485685945,
+      "signal_strength": -85.06902967017633,
+      "sinr": -91.8611920020373,
+      "network_load": 0.43339444322956977,
+      "hour": 22.0,
+      "pattern_type": "random_walk",
+      "connected_cell": "cell_4_7",
+      "device_type": "5G_premium"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 1517.3944609672583,
+      "y": 8544.690745764683,
+      "velocity": 0.1,
+      "heading": 16.123871170877134,
+      "signal_strength": -86.43664465095762,
+      "sinr": -95.03946157379946,
+      "network_load": 0.37936294006352944,
+      "hour": 13.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_2_9",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 9397.551288464436,
+      "y": 8519.43473193408,
+      "velocity": 0.0693907058546474,
+      "heading": 10.710395362320684,
+      "signal_strength": -85.89938441076825,
+      "sinr": -86.77470196178659,
+      "network_load": 0.466442754639301,
+      "hour": 4.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_9_9",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": true
+  },
+  {
+    "inputs": {
+      "x": 3617.193903713395,
+      "y": 313.8099828900657,
+      "velocity": 0.1,
+      "heading": -15.647460621209113,
+      "signal_strength": -83.8919659507818,
+      "sinr": -85.13047601681814,
+      "network_load": 0.333652290147721,
+      "hour": 23.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_4_0",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 7713.075241771645,
+      "y": 4192.328538652184,
+      "velocity": 0.3371127088029458,
+      "heading": 3.547920307268391,
+      "signal_strength": -80.76698989989917,
+      "sinr": -89.14442808094297,
+      "network_load": 0.40925669334188736,
+      "hour": 13.0,
+      "pattern_type": "commuter",
+      "connected_cell": "cell_8_4",
+      "device_type": "5G_basic"
+    },
+    "actualHandoverNeeded": false
+  },
+  {
+    "inputs": {
+      "x": 4617.776997048122,
+      "y": 3550.779334127098,
+      "velocity": 0.1,
+      "heading": 28.67801992312963,
+      "signal_strength": -85.41446477594008,
+      "sinr": -85.52368981826268,
+      "network_load": 0.41555555388196386,
+      "hour": 20.0,
+      "pattern_type": "stationary",
+      "connected_cell": "cell_5_4",
+      "device_type": "5G_advanced"
+    },
+    "actualHandoverNeeded": true
+  }
+]

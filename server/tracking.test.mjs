@@ -1,0 +1,5 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {twoline2satrec} from 'satellite.js';import {observe,horizonLoss} from './tracking.mjs';
+// Historical ISS TLE from N2YO documentation, used only for a deterministic unit test.
+const record=()=>twoline2satrec('1 25544U 98067A   18077.09047010  .00001878  00000-0  35621-4 0  9999','2 25544  51.6412 112.8495 0001928 208.4187 178.9720 15.54106440104358');
+test('SGP4 observation returns finite geodetic positions and look angles',()=>{const p=observe(record(),new Date('2018-03-18T02:10:00Z'));assert.ok(p);assert.ok(p.range>0);assert.ok(p.elevation>=-90&&p.elevation<=90);assert.ok(p.altitude>0&&p.altitude<1)});
+test('threshold prediction brackets a real descending crossing',()=>{const rec=record(),start=Date.parse('2018-03-18T00:00:00Z');let now;for(let n=0;n<86400;n+=60){if(observe(rec,new Date(start+n*1000))?.elevation>20){now=start+n*1000;break}}assert.ok(now);const loss=horizonLoss(rec,now,10);assert.ok(loss>now);assert.ok(observe(rec,new Date(loss-1000)).elevation>10);assert.ok(observe(rec,new Date(loss+1000)).elevation<10)});

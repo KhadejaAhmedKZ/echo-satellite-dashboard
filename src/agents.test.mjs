@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {normalizeAgents} from './agents.js';
+test('missing agent telemetry remains explicitly unreported',()=>{const rows=normalizeAgents(null);assert.equal(rows.length,9);assert.ok(rows.every(a=>a.state==='idle'&&!a.reported))});
+test('only recognized runtime states are displayed',()=>{const rows=normalizeAgents({agents:[{id:'watcher',state:'running',durationMs:4.25,detail:'Received measurements'},{id:'predictor',state:'invented',durationMs:-1}]});assert.equal(rows[0].state,'running');assert.equal(rows[0].durationMs,4.25);assert.equal(rows[1].reported,false);assert.equal(rows[1].durationMs,null)});
